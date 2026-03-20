@@ -9,7 +9,7 @@ Este repositório contém a documentação do meu "Segundo Cérebro" focado em V
 ---
 
 ##  Link do Caderno no NotebookLM
-> **[CLIQUE AQUI PARA ACESSAR O MEU NOTEBOOK TEMÁTICO]([https://notebooklm.google.com/notebook/ac5cd801-3eb2-4004-be0f-c59ecb35249a](https://notebooklm.google.com/notebook/ac5cd801-3eb2-4004-be0f-c59ecb35249a))**
+> https://notebooklm.google.com/notebook/ac5cd801-3eb2-4004-be0f-c59ecb35249a
 
 ---
 
